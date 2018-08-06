@@ -2,4 +2,8 @@ puts "What is your age?"
 
 age = gets.chomp!
 
-What is your name? 
+puts "What is your name?"
+
+name = gets.chomp
+
+"Your name is #{name} and you are #{age} years old"
