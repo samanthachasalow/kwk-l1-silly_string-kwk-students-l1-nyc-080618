@@ -25,7 +25,7 @@ big_word = "supercalifragilisticexpialidocious".length
 
 letter_count = big_word # Put a . after big_word and use a String method.
 
-puts "There are #{letter_count}.downcase in #{big_word}"
+puts "There are #{letter_count}.length in #{big_word}"
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
